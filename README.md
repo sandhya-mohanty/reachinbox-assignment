@@ -1,6 +1,6 @@
 # reachinbox-assignment
 # overview
-This repository contains the code for Reachinbox frontend App using React with javaScript and Tailwind CSS for styling for an assignment given by Reachinbox.
+This repository contains the code for Reachinbox frontend App using React Vite with javaScript and Tailwind CSS for styling for an assignment given by Reachinbox.
 # Deployment
 https://reachinbox-assignment-theta.vercel.app
 # How to Run
