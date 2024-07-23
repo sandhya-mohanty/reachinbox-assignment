@@ -4,9 +4,12 @@ This repository contains the code for Reachinbox frontend App using React with j
 # Deployment
 https://reachinbox-assignment-theta.vercel.app
 # How to Run
-Clone the repository : https://github.com/sandhya-mohanty/reachinbox-assignment.git
+1.Clone the repository : https://github.com/sandhya-mohanty/reachinbox-assignment.git
+
 Install the dependencies: npm install
+
 Run the development server: npm run dev
+
 Open your browser and visit: http://localhost:5173
 
 
