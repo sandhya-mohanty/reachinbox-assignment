@@ -19,7 +19,7 @@ function AllInbox({ data, loadMail }) {
 
   if (!Array.isArray(data)) {
     console.error("Data is not an array:", data);
-    return null; // or render a placeholder, or handle the error as needed
+    return null; 
   }
 
   return (
